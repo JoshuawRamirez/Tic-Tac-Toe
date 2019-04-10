@@ -117,3 +117,5 @@ board = Board.new()
 
 game = Game.new(board, player1, player2)
 game.start()
+## So I realised as soon as I went to "Play Test" this that I didn't have any conditionals for a tied game, which, fun fact, is how 
+##m most games end up. lesson learned - don't commit a project until you know its finished
